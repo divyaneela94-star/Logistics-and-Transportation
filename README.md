@@ -21,10 +21,13 @@ Building a data model optimized for performance in Power BI.
 
 # 🧮 DAX Measures
 Custom DAX measures were developed to calculate essential KPIs:
+
 1️⃣ Fuel Efficiency
 Fuel Efficiency = DIVIDE(SUM(FuelUsed), SUM(DistanceTravelled))
+
 2️⃣ On-Time Delivery %
 On Time Delivery % = DIVIDE(COUNT(OnTimeDeliveries), COUNT(TotalDeliveries)) * 100
+
 3️⃣ Cost Per KM
 Cost Per KM = DIVIDE(SUM(TotalCost), SUM(DistanceTravelled))
 
@@ -40,7 +43,9 @@ Trends in cost and efficiency over time.
 # 🔢 KPI Cards
 Key metrics displayed prominently:
 1️⃣Fuel Efficiency
+
 2️⃣Cost per KM
+
 3️⃣On-Time Delivery %
 
 # 🗺️ Map Visual
