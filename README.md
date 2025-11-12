@@ -42,6 +42,7 @@ Trends in cost and efficiency over time.
 
 # 🔢 KPI Cards
 Key metrics displayed prominently:
+
 1️⃣Fuel Efficiency
 
 2️⃣Cost per KM
